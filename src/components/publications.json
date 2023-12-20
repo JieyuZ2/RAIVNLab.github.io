@@ -274,6 +274,21 @@
     }
   },
   {
+    "title": "Cultural and Linguistic Diversity Improves Visual Representations",
+    "authors": [
+      "Andre Ye",
+      "Sebastin Santy",
+      "Jena D. Hwang",
+      "Amy X. Zhang",
+      "Ranjay Krishna"
+    ],
+    "year": "preprint",
+    "venue": null,
+    "links": {
+      "pdf": "https://arxiv.org/pdf/2310.14356.pdf",
+    }
+  },
+  {
     "title": "Improving Multimodal Datasets with Image Captioning",
     "authors": [
       "Thao Nguyen",
