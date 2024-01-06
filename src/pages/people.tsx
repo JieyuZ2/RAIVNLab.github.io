@@ -116,14 +116,14 @@ export default function Home() {
               <Person
                 name="Jiafei Duan"
                 title="Ph.D. Student, 2022 - Now"
-                additional="Advisors: Ranjay, Dieter"
+                additional="Advisors: Ranjay Krishna & Dieter Fox"
                 image="/jiafei.jpg"
                 website="https://duanjiafei.com/"
               />
               <Person
                 name="Ainaz Eftekhar"
                 title="Ph.D. Student, 2022 - Now"
-                additional="Advisors: Ali Farhadi, Ranjay Krishna"
+                additional="Advisors: Ali Farhadi & Ranjay Krishna"
                 image="/ainaz-2.jpg"
                 website="https://ainaz99.github.io/"
               />
@@ -137,28 +137,21 @@ export default function Home() {
               <Person
                 name="Scott Geng"
                 title="Ph.D. Student, 2023 - Now"
-                additional="Advisors: Ranjay Krishna, Pang Wei Koh"
+                additional="Advisors: Ranjay Krishna & Pang Wei Koh"
                 image="/scott2.jpg"
                 website="https://www.scottgeng.com/"
               />
               <Person
                 name="Cheng-Yu Hsieh"
                 title="Ph.D. Student, 2021 - Now"
-                additional="Advisors: Ranjay Krishna, Alex Ratner"
+                additional="Advisors: Ranjay Krishna & Alex Ratner"
                 image="/cheng-yu-2.jpeg"
                 website="https://chengyuhsieh.github.io/"
               />
               <Person
-                name="Gabriel Ilharco"
-                title="Ph.D. Student, 2019 - Now"
-                additional="Advisors: Ali Farhadi, Hanna Hajishirzi"
-                image="/gabriel.jpg"
-                website="http://gabrielilharco.com/"
-              />
-              <Person
                 name="Aditya Kusupati"
                 title="Ph.D. Student, 2019 - Now"
-                additional="Advisors: Ali Farhadi, Sham Kakade"
+                additional="Advisors: Ali Farhadi & Sham Kakade"
                 image="/aditya-2.jpg"
                 website="http://adityakusupati.com"
               />
@@ -172,7 +165,7 @@ export default function Home() {
               <Person
                 name="James Park"
                 title="Ph.D. Student, 2019 - Now"
-                additional="Advisors: Ali Farhadi, Yejin Choi"
+                additional="Advisors: Ali Farhadi & Yejin Choi"
                 image="/james-2.jpg"
                 website="https://homes.cs.washington.edu/~jspark96/"
               />
@@ -193,7 +186,7 @@ export default function Home() {
               <Person
                 name="Reza Salehi"
                 title="Ph.D. Student, 2021 - Now"
-                additional="Advisors: Ali Farhadi, Hanna Hajishirzi"
+                additional="Advisors: Ali Farhadi & Hanna Hajishirzi"
                 image="/reza-2.jpg"
                 website="https://homes.cs.washington.edu/~mrsalehi/"
               />
@@ -224,9 +217,16 @@ export default function Home() {
             <h3 className="h3 mb-4 mt-8">Alumni</h3>
             <div className="grid md:grid-cols-5 md:gap-x-3 md:gap-y-3 sm:grid-cols-3 gap-3 grid-cols-2">
               <Person
+                name="Gabriel Ilharco"
+                title="Ph.D. Student, 2019 - 2024"
+                additional="Advisors: Ali Farhadi & Hanna Hajishirzi"
+                image="/gabriel.jpg"
+                website="http://gabrielilharco.com/"
+              />
+              <Person
                 name="Mitchell Wortsman"
                 title="Ph.D. Student, 2019 - 2023"
-                additional="Advisors: Ali Farhadi, Ludwig Schmidt"
+                additional="Advisors: Ali Farhadi & Ludwig Schmidt, Member of the Technical Staff at Anthropic"
                 image="/mitchell.jpg"
                 website="https://mitchellnw.github.io/"
               />
