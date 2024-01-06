@@ -1,5 +1,19 @@
 [
-
+  {
+    "title": "SHARCS: Efficient Transformers through Routing with Dynamic Width Sub-networks",
+    "authors": [
+      "Mohammadreza Salehi",
+      "Sachin Mehta",
+      "Aditya Kusupati",
+      "Ali Farhadi",
+      "Hannaneh Hajishirzi"
+    ],
+    "year": "2023",
+    "venue": "EMNLP Findings 2023",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2310.12126"
+    }
+  },
   {
     "title": "MatFormer: Nested Transformer for Elastic Inference",
     "authors": [
