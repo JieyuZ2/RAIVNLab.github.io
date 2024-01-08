@@ -219,14 +219,14 @@ export default function Home() {
               <Person
                 name="Gabriel Ilharco"
                 title="Ph.D. Student, 2019 - 2024"
-                additional="Advisors: Ali Farhadi & Hanna Hajishirzi"
+                additional="Advisors: Ali Farhadi & Hanna Hajishirzi, Member of Technical Staff at xAI"
                 image="/gabriel.jpg"
                 website="http://gabrielilharco.com/"
               />
               <Person
                 name="Mitchell Wortsman"
                 title="Ph.D. Student, 2019 - 2023"
-                additional="Advisors: Ali Farhadi & Ludwig Schmidt, Member of the Technical Staff at Anthropic"
+                additional="Advisors: Ali Farhadi & Ludwig Schmidt, Research Scientist at Anthropic"
                 image="/mitchell.jpg"
                 website="https://mitchellnw.github.io/"
               />
