@@ -48,6 +48,7 @@ function Person(props: {
             className="text-xs text-left mt-1 px-2 text-slate-400"
             style={{
               fontStyle: props.additional ? "normal" : "italic",
+              fontStyle: props.next ? "normal" : "italic",
             }}
           >
             {props.email ? props.email : props.additional}
