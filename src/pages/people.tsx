@@ -48,6 +48,11 @@ function Person(props: {
             className="text-xs text-left mt-1 px-2 text-slate-400"
             style={{
               fontStyle: props.additional ? "normal" : "italic",
+            }}
+          >
+          <div
+            className="text-xs text-left mt-1 px-2 text-slate-400"
+            style={{
               fontStyle: props.next ? "normal" : "italic",
             }}
           >
