@@ -15,6 +15,7 @@ function Person(props: {
   title: string;
   email?: string;
   additional?: string;
+  next?: string;
   image: string;
   website?: string;
 }) {
@@ -219,14 +220,16 @@ export default function Home() {
               <Person
                 name="Gabriel Ilharco"
                 title="Ph.D. Student, 2019 - 2024"
-                additional="Advisors: Ali Farhadi & Hanna Hajishirzi, Member of Technical Staff at xAI"
+                additional="Advisors: Ali Farhadi & Hanna Hajishirzi" 
+                next="Member of Technical Staff, xAI"
                 image="/gabriel.jpg"
                 website="http://gabrielilharco.com/"
               />
               <Person
                 name="Mitchell Wortsman"
                 title="Ph.D. Student, 2019 - 2023"
-                additional="Advisors: Ali Farhadi & Ludwig Schmidt, Research Scientist at Anthropic"
+                additional="Advisors: Ali Farhadi & Ludwig Schmidt" 
+                next="Member of Technical Staff, Anthropic"
                 image="/mitchell.jpg"
                 website="https://mitchellnw.github.io/"
               />
@@ -234,13 +237,15 @@ export default function Home() {
                 name="Aaron Walsman"
                 title="Ph.D. Student, 2015 - 2023"
                 additional="Advisors: Ali Farhadi, Dieter Fox"
+                next="Will know soon!"
                 image="/aaron.jpg"
                 website="http://aaronwalsman.com/"
               />
               <Person
                 name="Kuo-Hao Zeng"
                 title="Ph.D., 2018 - 2023"
-                additional="Advisors: Ali Farhadi & Roozbeh Mottaghi, Research Scientist at AI2"
+                additional="Advisors: Ali Farhadi & Roozbeh Mottaghi" 
+                next="Research Scientist, AI2"
                 image="/hao.jpg"
                 website="https://kuohaozeng.github.io/"
               />
@@ -248,7 +253,8 @@ export default function Home() {
               <Person
                 name="Rowan Zellers"
                 title="Ph.D., 2016 - 2022"
-                additional="Advisors: Ali Farhadi & Yejin Choi, Research Scientist at OpenAI"
+                additional="Advisors: Ali Farhadi & Yejin Choi"
+                next="Research Scientist, OpenAI"
                 image="/rowan.jpg"
                 website="https://rowanzellers.com/"
               />
@@ -256,7 +262,8 @@ export default function Home() {
               <Person
                 name="Junha Roh"
                 title="Ph.D., 2016 - 2022"
-                additional="Advisors: Ali Farhadi & Dieter Fox, Research Scientist at Third Wave Automation"
+                additional="Advisors: Ali Farhadi & Dieter Fox"
+                next="Research Scientist, Third Wave Automation"
                 image="/junha.jpg"
                 website="https://rohjunha.github.io/"
               />
@@ -264,7 +271,8 @@ export default function Home() {
               <Person
                 name="Maxwell (Max) Horton"
                 title="Ph.D., 2016 - 2022"
-                additional="Advisors: Ali Farhadi & Mohammad Rastegari, Machine Learning Researcher at Apple"
+                additional="Advisors: Ali Farhadi & Mohammad Rastegari"
+                next="Machine Learning Researcher, Apple"
                 image="/max.jpg"
                 website="https://homes.cs.washington.edu/~mchorton/"
               />
@@ -272,7 +280,8 @@ export default function Home() {
               <Person
                 name="Keunhong Park"
                 title="Ph.D., 2015 - 2022"
-                additional="Advisors: Ali Farhadi & Steve Seitz, Research Scientist at Google"
+                additional="Advisors: Ali Farhadi & Steve Seitz"
+                next="Research Scientist, Google"
                 image="/keunhong.jpg"
                 website="https://keunhong.com/"
               />
@@ -280,7 +289,8 @@ export default function Home() {
               <Person
                 name="Joseph (Joe) Redmon"
                 title="Ph.D., 2013 - 2021"
-                additional="Advisor: Ali Farhadi, Current Position: Something we can never predict!!"
+                additional="Advisor: Ali Farhadi"
+                next="Something we can never predict!!"
                 image="/joe.png"
                 website="https://pjreddie.com/"
               />
@@ -288,7 +298,8 @@ export default function Home() {
               <Person
                 name="Kiana Ehsani"
                 title="Ph.D., 2015 - 2021"
-                additional="Advisors: Ali Farhadi & Roozbeh Mottaghi, Research Scientist at AI2"
+                additional="Advisors: Ali Farhadi & Roozbeh Mottaghi"
+                next="Research Scientist, AI2"
                 image="/kiana-2.jpg"
                 website="https://ehsanik.github.io/"
               />
@@ -296,7 +307,8 @@ export default function Home() {
               <Person
                 name="Keivan Alizadeh-Vahid"
                 title="MS, 2018 - 2021"
-                additional="Advisors: Ali Farhadi & Mohammad Rastegari, Machine Learning Research Engineer at Apple"
+                additional="Advisors: Ali Farhadi & Mohammad Rastegari"
+                next="Machine Learning Research Engineer, Apple"
                 image="/keivan.jpg"
                 website="https://homes.cs.washington.edu/~keivan/"
               />
@@ -304,7 +316,8 @@ export default function Home() {
               <Person
                 name="Hessam Bagherinezhad"
                 title="Ph.D., 2014 - 2020"
-                additional="Advisor: Ali Farhadi, Machine Learning Research Engineer at Apple"
+                additional="Advisor: Ali Farhadi"
+                next="Machine Learning Research Engineer, Apple"
                 image="/hessam.jpg"
                 website="https://homes.cs.washington.edu/~hessam/"
               />
@@ -312,7 +325,8 @@ export default function Home() {
               <Person
                 name="Daniel Gordon"
                 title="Ph.D., 2014 - 2020"
-                additional="Advisors: Ali Farhadi & Dieter Fox, Research Scientist at Third Wave Automation"
+                additional="Advisors: Ali Farhadi & Dieter Fox"
+                next="Research Scientist, Third Wave Automation"
                 image="/daniel.jpg"
                 website="https://danielgordon10.github.io/"
               />
@@ -320,7 +334,8 @@ export default function Home() {
               <Person
                 name="Minjoon Seo"
                 title="Ph.D., 2013 - 2020"
-                additional="Advisors: Ali Farhadi & Hannaneh Hajishirzi, Assistant Professor at KAIST AI"
+                additional="Advisors: Ali Farhadi & Hannaneh Hajishirzi"
+                next="Assistant Professor, KAIST AI"
                 image="/minjoon.jpg"
                 website="https://seominjoon.github.io/"
               />
@@ -328,7 +343,8 @@ export default function Home() {
               <Person
                 name="Xin Ru (Nancy) Wang"
                 title="Ph.D., 2014 - 2019"
-                additional="Advisors: Ali Farhadi & Rajesh Rao, Researcher at IBM Research"
+                additional="Advisors: Ali Farhadi & Rajesh Rao"
+                next="Researcher, IBM Research"
                 image="/nancy_wang.jpg"
                 website="#"
               />
@@ -336,7 +352,8 @@ export default function Home() {
               <Person
                 name="Junyuan (Eric) Xie"
                 title="Ph.D., 2013 - 2019"
-                additional="Advisor: Ali Farhadi, Senior Applied Scientist at Amazon"
+                additional="Advisor: Ali Farhadi
+                next="Senior Applied Scientist, Amazon"
                 image="/junyuan.jpg"
                 website="#"
               />
@@ -344,7 +361,8 @@ export default function Home() {
               <Person
                 name="Mark Yatskar"
                 title="Ph.D., 2010 - 2017"
-                additional="Advisors: Ali Farhadi & Luke Zettelmoyer, Assistant Professor, University of Pennsylvania"
+                additional="Advisors: Ali Farhadi & Luke Zettelmoyer"
+                next="Assistant Professor, University of Pennsylvania"
                 image="/mark-2.jpg"
                 website="http://markyatskar.com/"
               />
@@ -352,7 +370,8 @@ export default function Home() {
               <Person
                 name="Bilge Soran"
                 title="Ph.D., 2010 - 2015"
-                additional="Advisors: Ali Farhadi & Linda Shapiro, Senior Research Scientist, Coupang"
+                additional="Advisors: Ali Farhadi & Linda Shapiro"
+                next="Senior Research Scientist, Coupang"
                 image="/bilge.jpg"
                 website="#"
               />
@@ -360,7 +379,8 @@ export default function Home() {
               <Person
                 name="Santosh Divvala"
                 title="Postdoc, 2014 - 2015"
-                additional="Advisors: Ali Farhadi & Carlos Guestrin, Research Scientist, AI2"
+                additional="Advisors: Ali Farhadi & Carlos Guestrin" 
+                next="Research Scientist, AI2"
                 image="/santosh.jpg"
                 website="https://scholar.google.com/citations?user=-DYvinwAAAAJ&hl=en"
               />
@@ -368,7 +388,8 @@ export default function Home() {
               <Person
                 name="Min Sun"
                 title="Postdoc, 2013 - 2014"
-                additional="Advisors: Ali Farhadi, Steve Seitz & Ben Taskar, Assistant Professor, National Tsing Hua University"
+                additional="Advisors: Ali Farhadi, Steve Seitz & Ben Taskar"
+                next="Assistant Professor, National Tsing Hua University"
                 image="/min-sun.jpg"
                 website="http://aliensunmin.github.io/"
               />
