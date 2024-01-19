@@ -50,13 +50,15 @@ function Person(props: {
               fontStyle: props.additional ? "normal" : "italic",
             }}
           >
+            {props.email ? props.email : props.additional}
+          </div>
           <div
             className="text-xs text-left mt-1 px-2 text-slate-400"
             style={{
               fontStyle: props.next ? "normal" : "italic",
             }}
           >
-            {props.email ? props.email : props.additional}
+            {props.next}
           </div>
         </div>
       </a>
