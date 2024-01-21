@@ -356,7 +356,7 @@ export default function Home() {
               <Person
                 name="Junyuan (Eric) Xie"
                 title="Ph.D., 2013 - 2019"
-                additional="Advisor: Ali Farhadi
+                additional="Advisor: Ali Farhadi"
                 next="Senior Applied Scientist, Amazon"
                 image="/junyuan.jpg"
                 website="#"
