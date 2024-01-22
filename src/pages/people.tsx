@@ -225,7 +225,7 @@ export default function Home() {
                 name="Gabriel Ilharco"
                 title="Ph.D. Student, 2019 - 2024"
                 additional="Advisors: Ali Farhadi & Hanna Hajishirzi" 
-                next="Member of Technical Staff, xAI"
+                next=""
                 image="/gabriel.jpg"
                 website="http://gabrielilharco.com/"
               />
