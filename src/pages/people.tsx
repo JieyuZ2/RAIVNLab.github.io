@@ -163,7 +163,7 @@ export default function Home() {
               <Person
                 name="Zixian Ma"
                 title="Ph.D. Student, 2023 - Now"
-                additional="Advisor: Ranjay Krishna"
+                additional="Advisor: Ranjay Krishna & Dan Weld"
                 image="/zixian.jpg"
                 website="https://zixianma.github.io/"
               />
@@ -211,8 +211,8 @@ export default function Home() {
               />
               <Person
                 name="Jieyu Zhang"
-                title="Ph.D. Student, 2023 - Now"
-                additional="Advisor: Ranjay Krishna"
+                title="Ph.D. Student, 2020 - Now"
+                additional="Advisor: Ranjay Krishna & Alex Ratner"
                 image="/jieyu2.jpg"
                 website="https://jieyuz2.github.io/"
               />
