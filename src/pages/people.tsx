@@ -240,7 +240,7 @@ export default function Home() {
               <Person
                 name="Aaron Walsman"
                 title="Ph.D. Student, 2015 - 2023"
-                additional="Advisors: Ali Farhadi, Dieter Fox"
+                additional="Advisors: Ali Farhadi & Dieter Fox"
                 next="Will know soon!"
                 image="/aaron.jpg"
                 website="http://aaronwalsman.com/"
