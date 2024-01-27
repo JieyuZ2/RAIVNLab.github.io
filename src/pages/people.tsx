@@ -225,7 +225,7 @@ export default function Home() {
                 name="Gabriel Ilharco"
                 title="Ph.D. Student, 2019 - 2024"
                 additional="Advisors: Ali Farhadi & Hanna Hajishirzi" 
-                next="Member of Technical Staff, xAI"
+                next="Next: Member of Technical Staff, xAI"
                 image="/gabriel.jpg"
                 website="http://gabrielilharco.com/"
               />
@@ -233,7 +233,7 @@ export default function Home() {
                 name="Mitchell Wortsman"
                 title="Ph.D. Student, 2019 - 2023"
                 additional="Advisors: Ali Farhadi & Ludwig Schmidt" 
-                next="Member of Technical Staff, Anthropic"
+                next="Next: Member of Technical Staff, Anthropic"
                 image="/mitchell.jpg"
                 website="https://mitchellnw.github.io/"
               />
@@ -241,7 +241,7 @@ export default function Home() {
                 name="Aaron Walsman"
                 title="Ph.D. Student, 2015 - 2023"
                 additional="Advisors: Ali Farhadi & Dieter Fox"
-                next="Will know soon!"
+                next="Next: Will know soon!"
                 image="/aaron.jpg"
                 website="http://aaronwalsman.com/"
               />
@@ -249,7 +249,7 @@ export default function Home() {
                 name="Kuo-Hao Zeng"
                 title="Ph.D., 2018 - 2023"
                 additional="Advisors: Ali Farhadi & Roozbeh Mottaghi" 
-                next="Research Scientist, AI2"
+                next="Next: Research Scientist, AI2"
                 image="/hao.jpg"
                 website="https://kuohaozeng.github.io/"
               />
@@ -258,7 +258,7 @@ export default function Home() {
                 name="Rowan Zellers"
                 title="Ph.D., 2016 - 2022"
                 additional="Advisors: Ali Farhadi & Yejin Choi"
-                next="Research Scientist, OpenAI"
+                next="Next: Research Scientist, OpenAI"
                 image="/rowan.jpg"
                 website="https://rowanzellers.com/"
               />
@@ -267,7 +267,7 @@ export default function Home() {
                 name="Junha Roh"
                 title="Ph.D., 2016 - 2022"
                 additional="Advisors: Ali Farhadi & Dieter Fox"
-                next="Research Scientist, Third Wave Automation"
+                next="Next: Research Scientist, Third Wave Automation"
                 image="/junha.jpg"
                 website="https://rohjunha.github.io/"
               />
@@ -276,7 +276,7 @@ export default function Home() {
                 name="Maxwell (Max) Horton"
                 title="Ph.D., 2016 - 2022"
                 additional="Advisors: Ali Farhadi & Mohammad Rastegari"
-                next="Machine Learning Researcher, Apple"
+                next="Next: Machine Learning Researcher, Apple"
                 image="/max.jpg"
                 website="https://homes.cs.washington.edu/~mchorton/"
               />
@@ -285,7 +285,7 @@ export default function Home() {
                 name="Keunhong Park"
                 title="Ph.D., 2015 - 2022"
                 additional="Advisors: Ali Farhadi & Steve Seitz"
-                next="Research Scientist, Google"
+                next="Next: Research Scientist, Google"
                 image="/keunhong.jpg"
                 website="https://keunhong.com/"
               />
@@ -294,7 +294,7 @@ export default function Home() {
                 name="Joseph (Joe) Redmon"
                 title="Ph.D., 2013 - 2021"
                 additional="Advisor: Ali Farhadi"
-                next="Something we can never predict!!"
+                next="Next: Something we can never predict!!"
                 image="/joe.png"
                 website="https://pjreddie.com/"
               />
@@ -303,7 +303,7 @@ export default function Home() {
                 name="Kiana Ehsani"
                 title="Ph.D., 2015 - 2021"
                 additional="Advisors: Ali Farhadi & Roozbeh Mottaghi"
-                next="Research Scientist, AI2"
+                next="Next: Research Scientist, AI2"
                 image="/kiana-2.jpg"
                 website="https://ehsanik.github.io/"
               />
@@ -312,7 +312,7 @@ export default function Home() {
                 name="Keivan Alizadeh-Vahid"
                 title="MS, 2018 - 2021"
                 additional="Advisors: Ali Farhadi & Mohammad Rastegari"
-                next="Machine Learning Research Engineer, Apple"
+                next="Next: Machine Learning Research Engineer, Apple"
                 image="/keivan.jpg"
                 website="https://homes.cs.washington.edu/~keivan/"
               />
@@ -321,7 +321,7 @@ export default function Home() {
                 name="Hessam Bagherinezhad"
                 title="Ph.D., 2014 - 2020"
                 additional="Advisor: Ali Farhadi"
-                next="Machine Learning Research Engineer, Apple"
+                next="Next: Machine Learning Research Engineer, Apple"
                 image="/hessam.jpg"
                 website="https://homes.cs.washington.edu/~hessam/"
               />
@@ -330,7 +330,7 @@ export default function Home() {
                 name="Daniel Gordon"
                 title="Ph.D., 2014 - 2020"
                 additional="Advisors: Ali Farhadi & Dieter Fox"
-                next="Research Scientist, Third Wave Automation"
+                next="Next: Research Scientist, Third Wave Automation"
                 image="/daniel.jpg"
                 website="https://danielgordon10.github.io/"
               />
@@ -339,7 +339,7 @@ export default function Home() {
                 name="Minjoon Seo"
                 title="Ph.D., 2013 - 2020"
                 additional="Advisors: Ali Farhadi & Hannaneh Hajishirzi"
-                next="Assistant Professor, KAIST AI"
+                next="Next: Assistant Professor, KAIST AI"
                 image="/minjoon.jpg"
                 website="https://seominjoon.github.io/"
               />
@@ -348,7 +348,7 @@ export default function Home() {
                 name="Xin Ru (Nancy) Wang"
                 title="Ph.D., 2014 - 2019"
                 additional="Advisors: Ali Farhadi & Rajesh Rao"
-                next="Researcher, IBM Research"
+                next="Next: Researcher, IBM Research"
                 image="/nancy_wang.jpg"
                 website="#"
               />
@@ -357,7 +357,7 @@ export default function Home() {
                 name="Junyuan (Eric) Xie"
                 title="Ph.D., 2013 - 2019"
                 additional="Advisor: Ali Farhadi"
-                next="Senior Applied Scientist, Amazon"
+                next="Next: Senior Applied Scientist, Amazon"
                 image="/junyuan.jpg"
                 website="#"
               />
@@ -366,7 +366,7 @@ export default function Home() {
                 name="Mark Yatskar"
                 title="Ph.D., 2010 - 2017"
                 additional="Advisors: Ali Farhadi & Luke Zettelmoyer"
-                next="Assistant Professor, University of Pennsylvania"
+                next="Next: Assistant Professor, University of Pennsylvania"
                 image="/mark-2.jpg"
                 website="http://markyatskar.com/"
               />
@@ -375,7 +375,7 @@ export default function Home() {
                 name="Bilge Soran"
                 title="Ph.D., 2010 - 2015"
                 additional="Advisors: Ali Farhadi & Linda Shapiro"
-                next="Senior Research Scientist, Coupang"
+                next="Next: Senior Research Scientist, Coupang"
                 image="/bilge.jpg"
                 website="#"
               />
@@ -384,7 +384,7 @@ export default function Home() {
                 name="Santosh Divvala"
                 title="Postdoc, 2014 - 2015"
                 additional="Advisors: Ali Farhadi & Carlos Guestrin" 
-                next="Research Scientist, AI2"
+                next="Next: Research Scientist, AI2"
                 image="/santosh.jpg"
                 website="https://scholar.google.com/citations?user=-DYvinwAAAAJ&hl=en"
               />
@@ -393,7 +393,7 @@ export default function Home() {
                 name="Min Sun"
                 title="Postdoc, 2013 - 2014"
                 additional="Advisors: Ali Farhadi, Steve Seitz & Ben Taskar"
-                next="Assistant Professor, National Tsing Hua University"
+                next="Next: Assistant Professor, National Tsing Hua University"
                 image="/min-sun.jpg"
                 website="http://aliensunmin.github.io/"
               />
