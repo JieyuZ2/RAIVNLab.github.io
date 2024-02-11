@@ -219,6 +219,18 @@ export default function Home() {
             </div>
           </div>
           <div className="px-5">
+            <h3 className="h3 mb-4 mt-8">Undergraduate/Masters Students</h3>
+            <div className="grid md:grid-cols-5 md:gap-x-3 md:gap-y-3 sm:grid-cols-3 gap-3 grid-cols-2">
+            <Person
+                name="Huong Ngo"
+                title="Undergraduate Student, 2023 - Now"
+                additional="Advisor: Matt Deitke"
+                image="/huong.jpg"
+                website="https://huongngo-8.github.io/"
+              />
+            </div>
+          </div>
+          <div className="px-5">
             <h3 className="h3 mb-4 mt-8">Alumni</h3>
             <div className="grid md:grid-cols-5 md:gap-x-3 md:gap-y-3 sm:grid-cols-3 gap-3 grid-cols-2">
               <Person
