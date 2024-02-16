@@ -241,7 +241,7 @@ export default function Home() {
                 name="Aaron Walsman"
                 title="Ph.D. Student, 2015 - 2023"
                 additional="Advisors: Ali Farhadi & Dieter Fox"
-                next="Current: Will know soon!"
+                next="Current: Research Fellow, Harvard Kempner Institute"
                 image="/aaron.jpg"
                 website="http://aaronwalsman.com/"
               />
