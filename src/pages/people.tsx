@@ -342,7 +342,7 @@ export default function Home() {
                 name="Daniel Gordon"
                 title="Ph.D., 2014 - 2020"
                 additional="Advisors: Ali Farhadi & Dieter Fox"
-                next="Current: Research Scientist, Third Wave Automation"
+                next="Current: Research Scientist, Apple Maps 3D Vision"
                 image="/daniel.jpg"
                 website="https://danielgordon10.github.io/"
               />
