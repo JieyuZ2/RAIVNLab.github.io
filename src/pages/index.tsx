@@ -191,7 +191,7 @@ export default function Home() {
                 </p>
                 <p className="text-xl text-gray-600">
                   RAIVN Lab's famous research break-throughs include YOLO,
-                  XNOR-Net, Visual Genome, AI2-THOR, VCR, BiDAF, Objaverse, DataComp, OpenCLIP, Merlot, Model Soups and Matryoshka Representations/Models among many
+                  XNOR-Net, Visual Genome, AI2-THOR, VCR, BiDAF, Objaverse, DataComp, OpenCLIP, Merlot, Model Soups & Matryoshka Representations/Models among many
                   other amazing projects.
                 </p>
               </div>
