@@ -81,7 +81,7 @@ export default function Home() {
               <div className="grid grid-cols-2 gap-x-3">
                 <Person
                   name="Ali Farhadi"
-                  title="Professor"
+                  title="Professor or (a Unicorn?)"
                   email="ali [at] cs.uw.edu"
                   image="/Ali-Farhadi.jpg"
                   website="https://homes.cs.washington.edu/~ali"
