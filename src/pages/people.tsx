@@ -129,7 +129,7 @@ export default function Home() {
                 name="Ainaz Eftekhar"
                 title="Ph.D. Student, 2022 - Now"
                 additional="Advisors: Ali Farhadi & Ranjay Krishna"
-                image="/ainaz-2.jpg"
+                image="/ainaz.jpg"
                 website="https://ainaz99.github.io/"
               />
               <Person
