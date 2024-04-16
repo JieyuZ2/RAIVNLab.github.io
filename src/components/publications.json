@@ -373,6 +373,23 @@
     "thumbnail": "/ar2d2.jpg"
   },
   {
+    "title": "Selective Visual Representations Improve Convergence and Generalization for Embodied-AI",
+    "thumbnail": "/codebook_teaser.png",
+    "authors": [
+      "Ainaz Eftekhar*",
+      "Kuo-Hao Zeng*",
+      "Jiafei Duan",
+      "Ali Farhadi",
+      "Ani Kembhavi",
+      "Ranjay Krishna"
+    ],
+    "year": "2024",
+    "venue": "ICLR 2024 [Spotlight]",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2311.04193"
+    }
+  },
+  {
     "title": "VOCALExplore: Pay-as-You-Go Video Data Exploration and Model Building",
     "thumbnail": "/vocalexplore.png",
     "authors": [
