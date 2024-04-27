@@ -46,6 +46,18 @@ export default function HeroHome() {
           {/* Hero image */}
           <div className="text-center">
             <Carousel autoplay>
+            <div>
+                <img
+                  src="/raivn-group3.jpg"
+                  className="md:w-9/12 mx-auto rounded-md w-11/12"
+                />
+              </div>
+              <div>
+                <img
+                  src="/raivn-group4.jpg"
+                  className="md:w-9/12 mx-auto rounded-md w-11/12"
+                />
+              </div>
               <div>
                 <img
                   src="/dec.jpg"
