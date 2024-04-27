@@ -168,6 +168,13 @@ export default function Home() {
                 website="http://adityakusupati.com"
               />
               <Person
+                name="Nabil Omi"
+                title="Ph.D. Student, 2024 - Now"
+                additional="Advisor: Ali Farhadi"
+                image="/nabil.jpg"
+                website="https://scholar.google.com/citations?user=18iysQgAAAAJ&hl=en"
+              />
+              <Person
                 name="Zixian Ma"
                 title="Ph.D. Student, 2023 - Now"
                 additional="Advisor: Ranjay Krishna & Dan Weld"
@@ -203,6 +210,13 @@ export default function Home() {
                 website="https://homes.cs.washington.edu/~mrsalehi/"
               />
               <Person
+                name="Yashas Samaga"
+                title="Ph.D. Student, 2024 - Now"
+                additional="Advisor: Ali Farhadi"
+                image="/yashas.jpg"
+                website="https://github.com/YashasSamaga"
+              />
+              <Person
                 name="Sebastin Santy"
                 title="Ph.D. Student, 2021 - Now"
                 additional="Advisor: Ranjay Krishna"
@@ -222,6 +236,13 @@ export default function Home() {
                 additional="Advisor: Ranjay Krishna & Alex Ratner"
                 image="/jieyu2.jpg"
                 website="https://jieyuz2.github.io/"
+              />
+              <Person
+                name="Chenhao Zheng"
+                title="Ph.D. Student, 2024 - Now"
+                additional="Advisor: Ranjay Krishna"
+                image="/chenhao.jpg"
+                website="https://hellomuffin.github.io/"
               />
             </div>
           </div>
