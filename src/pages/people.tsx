@@ -230,14 +230,14 @@ export default function Home() {
             <div className="grid md:grid-cols-5 md:gap-x-3 md:gap-y-3 sm:grid-cols-3 gap-3 grid-cols-2">
             <Person
                 name="Huong Ngo"
-                title="Undergraduate Student, 2023 - Now"
+                title="BS Student, 2023 - Now"
                 additional="Advisor: Matt Deitke"
                 image="/huong.jpg"
                 website="https://huongngo-8.github.io/"
               />
             <Person
                 name="Ethan Shen"
-                title="Undergraduate Student, 2023 - Now"
+                title="BS Student, 2023 - Now"
                 additional="Advisor: Aditya Kusupati"
                 image="/ethan.jpg"
                 website="https://ethanlshen.github.io/"
