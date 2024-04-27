@@ -235,7 +235,6 @@ export default function Home() {
                 image="/huong.jpg"
                 website="https://huongngo-8.github.io/"
               />
-            </div>
             <Person
                 name="Ethan Shen"
                 title="Undergraduate Student, 2023 - Now"
