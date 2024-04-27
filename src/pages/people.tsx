@@ -154,6 +154,13 @@ export default function Home() {
                 website="https://chengyuhsieh.github.io/"
               />
               <Person
+                name="Amita Kamath"
+                title="Ph.D. Student (UCLA), 2022 - Now"
+                additional="Advisors: Ranjay Krishna & Kai-Wei Chang"
+                image="/amita.jpg"
+                website="https://amitakamath.github.io/"
+              />
+              <Person
                 name="Aditya Kusupati"
                 title="Ph.D. Student, 2019 - Now"
                 additional="Advisors: Ali Farhadi & Sham Kakade"
@@ -227,6 +234,14 @@ export default function Home() {
                 additional="Advisor: Matt Deitke"
                 image="/huong.jpg"
                 website="https://huongngo-8.github.io/"
+              />
+            </div>
+            <Person
+                name="Ethan Shen"
+                title="Undergraduate Student, 2023 - Now"
+                additional="Advisor: Aditya Kusupati"
+                image="/ethan.jpg"
+                website="https://ethanlshen.github.io/"
               />
             </div>
           </div>
