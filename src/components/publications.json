@@ -1,5 +1,36 @@
 [
   {
+    "title": "Training Language Model Agents without Modifying Language Models",
+    "authors": [
+      "Shaokun Zhang*",
+      "Jieyu Zhang*",
+      "Jiale Liu",
+      "Linxin Song",
+      "Chi Wang",
+      "Ranjay Krishna",
+      "Qingyun Wu"
+    ],
+    "year": "2024",
+    "venue": "ICML 2024",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2402.11359"
+    }
+  },
+   {
+    "title": "Iterated Learning Improves Compositionality in Large Vision-Language Models",
+    "authors": [
+      "Chenhao Zheng",
+      "Jieyu Zhang",
+      "Aniruddha Kembhavi",
+      "Ranjay Krishna"
+    ],
+    "year": "2024",
+    "venue": "CVPR 2024",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2404.02145"
+    }
+  },
+  {
     "title": "SHARCS: Efficient Transformers through Routing with Dynamic Width Sub-networks",
     "authors": [
       "Mohammadreza Salehi",
